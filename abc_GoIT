@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>abc_GoIT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+ 
+    <link href="styl.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <main>
+            <div class="main-descripson">
+             <h2 class="job-paply">Front-End Developer</h2>
+             <h1>Piotr Świderski</h1>
+             <p class="dyscripson"> Od niedawna zainstersowałem się pisaniem HTML i CSS oraz UI/UX , i testerem QA , potrafie pracować zespołowo , mam dużą wyobraznia którą przenosze w rzeczywistość na talerz aby goście byli zachwyceni nie tylko wyjątkowym smakiem ale również wizualnym potraw co sprawia ze tworzenie stron oraz aplikacji nie mam problemu 
+    
+             </p>
+            </div>
+           <div class="projects">
+            <h2 class="heder-projects">Projekty</h2>
+            <ol class="list-compery">
+                <li><a class="list-compery-live" href="https://barbershop-pl.goit.global/">https://barbershop-pl.goit.global/</a><span class="list-compery-live">..........</span>[ <span class="list-compery-live">HTML5, CSS3 </span>]
+                </li>
+                <li><a class="list-compery-live" href="https://cryptohub.goit.global/">https://cryptohub.goit.global/</a><span class="list-compery-live">...................</span>[<span class="list-compery-live"> JavaScript </span>]
+                </li>
+                <li><a class="list-compery-live" href="https://kidslike.goit.global/">https://kidslike.goit.global/</a><span class="list-compery-live">..........................</span>[<span class="list-compery-live"> React.js, Node.js </span>]
+                </li>
+            </ol>
+           </div>
+           <div class="projects1">
+            <h2 class="heder-projects">Doświadczenie zawodowe</h2>
+    
+            <h3 class="job-porzyszyn">Programista  <span class="hawe-lawe"> Kurs GoIT </span> </h3>
+            <p class="job-day">Pazdziernik 2023 - do chwili obecnej   </p>
+            <ul class="job-day3">
+                <li class="job-day2">Maraton GoIT HTML i CSS</li> 
+                <li class="job-day2">Maraton GoIT UX/UI </li>
+                <li class="job-day2">Maraton GoIT  Tester QA</li>
+                <li class="job-day2">Junior Kurs UX/UI</li>
+            </ul>
+           </div>
+           <div class="projects2">
+            <h3 class="job-porzyszyn">Szef Kuchni, Kucharz <span class="hawe-lawe">Stary Młyn w Nasielsku</span></h3>
+            <p class="job-day">Wrzesień 2020 - do chwili obecnej </p>
+            <ul class="job-day3">
+                <li class="job-day2">Sprawdzanie stanu magazynowego, </li> 
+                <li class="job-day2">Przygotowanie i wydawanie dań ciepłych, zimnych oraz deserów</li>
+                <li class="job-day2">przestrzeganie przepisów BHP i HACAP</li>
+            </ul>
+           </div>
+           <div class="projects3">
+            <h3 class="job-porzyszyn">Kucharz <span class="hawe-lawe"> Pozostałe miejsca pracy</span></h3>
+            <p class="job-day">Wrzesień 2010 - Marzec 2020</p>
+            <ul class="job-day3">
+                <li class="job-day2">Hotel Sobienie Królewskie Golf & Cantry Club 11.2016-03.2020</li> 
+                <li class="job-day2">Ministerstwo Kurtury i Dziedzictwa Narodowego 02.2017-03.2017</li>
+                <li class="job-day2">Pałac Zegrzyński 06.2013-11.2014</li>
+                <li class="job-day2">Hotel Warszawianka Centrum Kongresowe sp.Z.o.o. 09.2010-10.2016</li>
+            </ul>
+           </div>
+           <div >
+            <h2 class="heder-projects">Edukacja</h2>
+            <h3 class="hawe-lawe">ZSZ w Nasielsku</h3>
+            <h4>Kucharz małej gastronomi</h4>
+            <p class="job-day">Wrzesień 2009 - Czerwiec 2012 </p>
+           </div>
+        </main>
+    <aside class="blocklewa1"> 
+    <img class="cv_foto" src="IMG_PIOSWI1.jpg" width="370" alt="Zdjęcie Piotra Świderski" />
+    <div class="contakt-block" >
+        <h2 class="sekend-hederd" >Kontakt</h2>
+     <p class="contack-link" >
+       <br>
+       <span class="wold" > C: </span> <a class="contack-link"   href="tel:+48 500-517-879"> +48 500-517-879 </a></br>
+      <br>
+      <span class="wold" > E: </span> <a class="contack-link"  href="meiltu:swiderskipiotr975@gmail.com"> swiderskipiotr975@gmail.com </a></br>
+    </p>
+    </div>
+    <div class="tech-skills-blok">
+        <h2 class="sekend-hederd"> Umiętności techniczne</h2>
+        <ul class="list-sekundary" >
+            <li><span class="list-sekundary-aice" >HTML5</span></li>
+            <li><span class="list-sekundary-aice"  > CSS3</span></li>
+                <li><span class="list-sekundary-aice"  >GIT</span></li>
+                    <li><span class="list-sekundary-aice"  >WebPack</span></li>
+                        <li><span class="list-sekundary-aice"  >JavaScript</span></li>
+                            <li><span class="list-sekundary-aice"  >React.js</span></li>
+                                <li><span class="list-sekundary-aice"  >Node.js</span></li></ul>
+    </div>
+    <div class="soft-skills-blok" > 
+        <h2 class="sekend-hederd">Umiejętności miękkie</h2>
+        <ul class="list-sekundary">
+            <li><span class="list-sekundary-aice"  >Scrum</span></li>
+                <li><span class="list-sekundary-aice"  >Agile</span></li>
+                    <li><span class="list-sekundary-aice"  > GTD</span></li>
+                        <li><span class="list-sekundary-aice"  >Teamwork</span></li>
+        </ul>
+
+    </div>
+    </aside>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,149 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #F5F7FA;  }
+    .wrapper {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        width: 1200px; 
+        margin: 0 auto;
+        background: #FFF; 
+        box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+    } 
+    .blocklewa1 {
+        width: 370px;
+        background: #1E2939; 
+        height: 1319px; 
+    }
+    .cv_foto {
+        margin-top: 25px;
+    }
+    .sekend-hederd { 
+        color: #FFF;
+ 
+    }
+    .contack-link {
+        color: #FFF;
+        font-size: 14px; 
+        line-height: 24px;
+    }
+    .wold {
+        font-weight: 700; 
+    }
+    .list-sekundary {
+        color: #FB6D3A; 
+        margin-left: 0;
+        padding-left: 0;
+        list-style-position: inside;
+    }
+    .list-sekundary-aice {
+        color: #FFF;
+        line-height: 24px;
+        font-size: 14px; 
+    }
+    .contakt-block {
+        margin-top: 51px;
+        margin-left: 40px;
+    }
+    .tech-skills-blok {
+        margin-top: 47px;
+        margin-left: 40px;
+    }
+    .soft-skills-blok {
+        margin-left: 40px;
+        margin-top: 44px;
+    }
+    main {
+        padding: 88px 102px 88px 102px;
+    }
+    .main-descripson {
+        width: 400px; 
+    }
+    .job-paply {
+        font-size: 14px;
+font-weight: 700;
+line-height: normal; 
+    }
+    h1 {
+        width: 342px;
+height: 50px;
+flex-shrink: 0; 
+    }
+    .dyscripson {
+        color: #595959;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin: 0px;
+    }
+    .projects { 
+        width: 485px;
+height: 107px; 
+flex-shrink: 0; 
+margin-bottom: 51px;
+    }
+    .list-compery {
+        color: #000;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+padding-left: 0px;
+list-style-position: inside;
+    }
+    .list-compery-live {
+        color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        text-decoration-line: none; 
+    }
+    .heder-projects {
+        color: #000;
+font-size: 22px;
+font-weight: 700;
+line-height: normal; 
+    }
+    .job-porzyszyn {
+        color: #000;
+font-size: 16px;
+font-weight: 700;
+line-height: normal; 
+    }
+    .hawe-lawe {
+        color: #FB6D3A; 
+    }
+    .job-day {
+        color: #A8A8A8;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: normal; 
+    }
+    .job-day2 {
+        color: #595959;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+    }
+    .job-day3 {
+        color: #595959;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+padding-left: 0px;
+list-style-position: inside;
+    }
+    .projects2 {
+        width: 525px;
+height: 150px;
+flex-shrink: 0; 
+    }
+    .projects1 {
+        width: 525px;
+height: 213px;
+flex-shrink: 0; 
+    }
+    .projects3 {
+        width: 525px;
+height: 176px;
+flex-shrink: 0; 
+    }
